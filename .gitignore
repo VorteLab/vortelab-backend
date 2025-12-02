@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Django
+media/
+staticfiles/
+
+# Env
+.env
+.env.*
+*.local
+
+# SQLite (DEMO)
+# Dacă vrei să păstrezi baza de date pe GitHub, NU o comenta.
+# Dacă vrei să o excludeți în viitor:
+# db.sqlite3
+
+# Virtualenv
+venv/
+env/
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
